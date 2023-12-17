@@ -1,0 +1,5 @@
+ size of char datatype is 1 byte.
+ sizeof() is a compile-time operator. 
+ compile time refers to the time at which the source code is converted to a binary code. It doesn’t execute (run) the code inside ().
+
+
