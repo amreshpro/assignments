@@ -1,0 +1,2 @@
+
+AreaOfCircleOfThisRadius(9) : 254.340000
